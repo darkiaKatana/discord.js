@@ -1,0 +1,8 @@
+{
+    "ticket": {
+        "permissions": {
+            "viewers": ["xx", "xx", "xx"],
+            "roles": []
+        }
+    }
+}
