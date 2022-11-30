@@ -1,3 +1,5 @@
+const config = require('./config.json')
+
 let permSize = config.ticket.permissions.viewers.length;
 let givedPermissions = config.ticket.permissions.viewers;
 for (i=0;i<=permSize; i++) {
