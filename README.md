@@ -1,2 +1,2 @@
 # discord.js
-Discord.js v13/14 alternative and example codes.
+Discord.js v13/14 alternative, quick solution and example codes.
